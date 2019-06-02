@@ -2,8 +2,9 @@
 
 Python scripts that play around with the NLTK Brown Corpus. Some functionalities include finding all bigrams and trigrams, frequency of a part-of-speech (POS) given another POS, etc.
 
-## Setup 
-Fork the scripts and download them locally. **Must** change the "brownPath" in the brown.py and brown-num-n-grams.py scripts to be able to run correctly.
+## Languages used
+
+* Python 
 
 ### Dependencies
 
@@ -28,6 +29,9 @@ sudo pip install -U nltk
 ```python
 pip install PyDictionary
 ```
+
+## Getting started
+Fork the scripts and download them locally. **Must** change the "brownPath" in the brown.py and brown-num-n-grams.py scripts to be able to run correctly.
 
 ## Usage
 
