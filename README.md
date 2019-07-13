@@ -47,7 +47,7 @@ Mostly just wanted to play around with the Brown corpus. Functionalities of all 
 
 ## Demo (sample image)
 
-Image displaying the probability of a part-of-speech (first column) given a part-of-speech (second column).
+Image displaying the frequency of a part-of-speech (first column) given a part-of-speech (second column).
 
 ![image](https://user-images.githubusercontent.com/14877762/58758083-05ad9400-84cb-11e9-985c-9128b1965783.png)
 
